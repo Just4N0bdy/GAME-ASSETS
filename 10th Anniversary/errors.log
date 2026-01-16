@@ -1,0 +1,17 @@
+[2026-01-16T14:44:23.903Z] Error processing URL: https://ut10-battle.undertale.com/runner.data
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T14:44:23.906Z] Error processing URL: https://ut10-battle.undertale.com/game.unx
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T14:44:23.907Z] Error processing URL: https://ut10-battle.undertale.com/runner.wasm
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
