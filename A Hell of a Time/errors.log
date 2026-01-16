@@ -1,0 +1,401 @@
+[2026-01-16T09:31:47.509Z] Error processing URL: https://firebase.googleapis.com/v1alpha/projects/-/apps/1:1065321331780:web:37c4d21c84f1a69ad3d011/webConfig
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.661Z] Error processing URL: https://www.googletagmanager.com/td?id=G-ZV3SVDN43D&v=3&t=t&pid=426407138&seq=1&exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115616985~115938465~115938468~116988315~117041588&dl=gamejolt.net%2F&tdp=G-ZV3SVDN43D;87671686;0;0;0&frm=0&rtg=87671686&slo=3&hlo=3&lst=3&bt=0&ct=3&z=0
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.706Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/combatzoneborder.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.711Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/targetchoice-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.714Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/combatzoneunclipper.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.721Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/loading-logo.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.735Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/strike-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.741Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/uiact-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.743Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/combatzone.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.745Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/hpbackground.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.747Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/target-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.750Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/sansbody-sheet1.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.752Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/hp-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.754Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/krbar.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.756Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/bonev.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.765Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/uimercy-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.774Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/uifight-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.776Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/hpbar.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.778Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/sanshead-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.781Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/combatzoneclipper.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.783Z] Error processing URL: https://gamejolt.net/site-api/gameserver/hRWNmZASKnhN3v29LE4ELfQqAQoqiG
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.785Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/gasterblaster-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.790Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/vpad-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.792Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/sanslegs-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.795Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/sanstorso-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.798Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/uiitem-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.800Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/kr-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.803Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/sanssweat-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.806Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/sansbody-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.810Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/bonestabwarn.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.811Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/gasterblaster-sheet1.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.817Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/bonestabh.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.823Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/platform1.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.826Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/platform2.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.828Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/bonestabv.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.834Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/playerheart-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.840Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/playerheart-sheet1.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.842Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/sansfont.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.844Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/heartshard-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.846Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/menubonebottom-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.853Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/defaultfont.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.858Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/menuitem-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.862Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/heartshard-sheet1.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.866Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/boneh.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.872Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/damagefont.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.875Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/battlefont.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.877Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/heartshard-sheet2.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.878Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/images/speechbubble-sheet0.png
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.885Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/playerfight.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.891Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/ding.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.893Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/warning.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.894Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/playerdamaged.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.896Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/flash.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.903Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/menucursor.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.906Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/bonestab.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.910Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/sansspeak.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.911Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/battletext.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.913Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/playerheal.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.920Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/heartsplit.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.923Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/slam.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.926Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/heartshatter.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.927Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/menuselect.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.931Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/gasterblast2.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.935Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/gasterblast.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.941Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/gasterblaster.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.944Z] Error processing URL: https://serve.gamejolt.net/0e20ef27c60d4e260846b68744cab145cfd794320ba2b927eab1f514b7b5938a,1768642259,7/data/games/6/201/437451/files/601ab9bd0b97a/media/mus_zz_megalovania.ogg
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-16T09:31:47.945Z] Error processing URL: https://serve.gamejolt.net/fee8102208e37c20fa38fdf017aefc8b5efd92bc748be42e9145cc4fe37a406e,1768642239,7/data/games/6/201/437451/files/601ab9bd0b97a/bound_multi3.csv
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:122:48
+    at async Promise.all (index 0)
+    at async HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:182:13)
