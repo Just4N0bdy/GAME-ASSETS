@@ -1,0 +1,5 @@
+[2026-01-17T14:04:41.580Z] Error processing URL: https://selenite.cc/favicon.ico
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
