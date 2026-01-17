@@ -1,0 +1,41 @@
+[2026-01-17T11:16:57.315Z] Error processing URL: https://d23tskfudfp1j.cloudfront.net/games/2026/unity/99-nights-in-the-forest-survival/Build/game.data.unityweb
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-17T11:16:57.319Z] Error processing URL: https://d23tskfudfp1j.cloudfront.net/assets/promo/img/cal-count-io.webp
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-17T11:16:57.320Z] Error processing URL: https://d23tskfudfp1j.cloudfront.net/assets/promo/FeVQS0BTqb0h60ACH55Q2A.woff2
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-17T11:16:57.321Z] Error processing URL: https://d23tskfudfp1j.cloudfront.net/games/2026/unity/99-nights-in-the-forest-survival/Build/game.framework.js.unityweb
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-17T11:16:57.343Z] Error processing URL: https://d23tskfudfp1j.cloudfront.net/games/2026/unity/99-nights-in-the-forest-survival/Build/game.wasm.unityweb
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-17T11:16:57.534Z] Error processing URL: https://d23tskfudfp1j.cloudfront.net/favicon.ico
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-17T11:16:58.846Z] Error processing URL: https://universal.wgplayer.com/tag/?lh=d23tskfudfp1j.cloudfront.net&wp=/games/2026/unity/99-nights-in-the-forest-survival/index.html&ws=
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:122:48
+    at async Promise.all (index 5)
+    at async HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:182:13)
