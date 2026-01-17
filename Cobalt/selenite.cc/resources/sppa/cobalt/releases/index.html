@@ -1,0 +1,143 @@
+<html><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cobalt live demo</title>
+    <script src="releases/bedrock-js-1.1.1-custom.js"></script>
+    <script data-goatcounter="https://stats.benbridle.com/app" async="" src="//stats.benbridle.com/app.js"></script>
+    <style>
+      body { margin:0; background: #000; }
+      .bedrock.emulator { border-radius:0; }
+      .bedrock.emulator .screen { height:calc(100vh); }
+    </style>
+  <style id="custom-cursor" type="text/css">body button, body [type='button'], body input[type='reset'], body input[type='submit'], body [role="button"], ::-webkit-search-cancel-button, ::-webkit-search-decoration, ::-webkit-scrollbar-button, ::-webkit-file-upload-button, [role^=button], .cc_pointer, [type="search"]::-webkit-search-cancel-button, a, select, [type="search"]::-webkit-search-decoration, .paper-button, .ytp-progress-bar-container, input[type=submit], :link, :visited, a > *, img,  ::-webkit-scrollbar-button, .ogdlpmhglpejoiomcodnpjnfgcpmgale_pointer, ::-webkit-file-upload-button, .ytp-volume-panel, #myogdlpmhglpejoiomcodnpjnfgcpmgale .icon, body .custom-cursor-on-hover {cursor: url("data:image/png;base64,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") 19 1, pointer !important;} html,body,body select,body .custom-cursor-default-hover {cursor: url("data:image/png;base64,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") 5 1, auto !important;}</style><style>
+    div.bedrock {
+      --br-fg:var(--fg,#222); --br-bg:var(--bg,#eed); --br-accent:var(--accent,#467); }
+    div.bedrock * {
+        font-family:var(--font-family),monospace; font-weight:var(--font-weight); font-size:var(--font-size);
+        box-sizing:border-box; color:var(--br-bg); }
+    div.bedrock {
+        display:flex; flex-direction:column; overflow:hidden; border-radius:2px;  }
+    div.bedrock .hidden {
+        display:none }
+
+    .bedrock.assembler .editor {
+        position:relative; flex-grow:1; }
+    .bedrock.assembler textarea, .bedrock.assembler .viewer {
+        position:absolute; top:0; left:0; width:100%; height:100%; margin:0; padding:0.5rem 0.7rem;
+        max-height:calc(100vh); overflow:auto; border:none; white-space:pre; tab-size:2; }
+    .bedrock.assembler textarea {
+        z-index:1; background:transparent; color:transparent; caret-color:var(--br-fg); resize:vertical }
+    .bedrock.assembler textarea:focus {
+        outline:none; }
+    .bedrock:fullscreen textarea, .bedrock:fullscreen .screen {
+        resize:none; height:100% !important; }
+
+    .bedrock.assembler .viewer {
+        z-index:0; background:var(--br-bg); color:var(--br-fg) }
+    .bedrock.assembler .viewer .comment    { color:var(--comment,    #998) }
+    .bedrock.assembler .viewer .value      { color:var(--value,      #532) }
+    .bedrock.assembler .viewer .definition { color:var(--definition, #245) }
+    .bedrock.assembler .viewer .reference  { color:var(--reference       ) }
+
+    .bedrock .menubar {
+        background:var(--br-accent); display:flex; padding:3px; gap:3px }
+    .bedrock button {
+        display:flex; align-items:center; background:#0004; border:none; border-radius:2px; cursor:pointer; }
+    .bedrock .menubar button:hover  {
+        background:#0006; }
+    .bedrock .menubar button:active {
+        background:#000c; }
+    .bedrock .menubar .status {
+        font-size:85%;  }
+    .bedrock .menubar a {
+        text-decoration:none; white-space:nowrap; padding-left:0.4em }
+    .bedrock .menubar a:hover {
+        text-decoration:underline  }
+    .bedrock .menubar .status {
+        flex-grow:1; white-space:nowrap; overflow-x:hidden; align-self:center; padding-left:0.4rem; }
+
+    .bedrock .panel {
+        color:var(--br-bg); background:var(--br-accent); }
+    .bedrock .panel > * {
+        background:#0006; padding:0.3rem 0.5rem;  }
+    .bedrock .panel ul {
+        overflow:scroll; margin:0; list-style:none; }
+    .bedrock .panel li {
+        white-space:pre; }
+    .bedrock .panel .note {
+        opacity:60%; }
+
+    .bedrock .stream {
+        overflow:auto; background:var(--br-bg); padding:0.3rem; flex-grow:1; max-height:10rem; }
+    .bedrock .stream ul {
+        margin:0; padding:0; padding-left:0.5rem }
+    .bedrock .stream li {
+        color:var(--br-fg); padding:0 0.3rem; cursor:pointer; white-space:break-spaces }
+    .bedrock .stream li::marker {
+        content:'>'; }
+    .bedrock .stream li:hover {
+        text-decoration:underline }
+    .bedrock .screen {
+        background:#111; }
+    .bedrock .screen canvas {
+        display:block; margin:0 auto; image-rendering:pixelated; touch-action:none; }
+    .bedrock:fullscreen .stream {
+        max-height:none; }
+</style></head>
+  <body>
+    <div class="bedrock emulator">
+        <div class="menubar hidden">
+            <button name="fullscreen">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="8 8 20 20" width="1em" fill="currentColor">
+        <path d="m 10,16 2,0 0,-4 4,0 0,-2 L 10,10 l 0,6 0,0 z"></path>
+        <path d="m 20,10 0,2 4,0 0,4 2,0 L 26,10 l -6,0 0,0 z"></path>
+        <path d="m 24,24 -4,0 0,2 L 26,26 l 0,-6 -2,0 0,4 0,0 z"></path>
+        <path d="M 12,20 10,20 10,26 l 6,0 0,-2 -4,0 0,-4 0,0 z"></path>
+    </svg>
+</button>
+            <button name="state">STATE</button>
+            <button name="run">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" fill="currentColor">
+        <path d="m 5,2 6,6 -6,6 z"></path>
+    </svg>
+</button>
+            <button name="pause">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" fill="currentColor">
+        <path d="m 2.5,2.5 4.5,0 0,11 -4.5,0 z"></path>
+        <path d="m 9.5,2.5 4.5,0 0,11 -4.5,0 z"></path>
+    </svg>
+</button>
+            <button name="stop">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" fill="currentColor">
+        <path d="m 2.5,2.5 11,0 0,11 -11,0 z"></path>
+    </svg>
+</button>
+            <button name="step">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="1em" fill="currentColor">
+        <path d="m 3,2 6,6 -6,6 z"></path>
+        <path d="m 9,2.5 2.5,0 0,11 -2.5,0 z"></path>
+    </svg>
+</button>
+            <span class="status">sleeping / 0x1C00</span>
+            
+    <a href="https://benbridle.com/bedrock-js" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" width="8" height="8">
+            <g fill="currentColor">
+                <rect x="0" y="0" width="8" height="1"></rect>
+                <rect x="0" y="2" width="8" height="1"></rect>
+                <rect x="0" y="4" width="8" height="4"></rect>
+            </g>
+        </svg><span style="margin:0 4px">bedrock-js</span>
+    </a>
+
+        </div>
+        <div class="hidden panel state"><ul>
+            <li id="ip"> IP: <span class="value">B161</span>  <span class="note"></span></li>
+            <li id="cc"> CC: <span class="value">660375</span>  <span class="note"></span></li>
+            <li id="wst">WST: <span class="value"></span></li>
+            <li id="rst">RST: <span class="value"></span></li>
+        </ul></div>
+        <div class="hidden stream"><ul class="transmissions"></ul></div>
+        <div class="screen"><canvas width="522" height="369" tabindex="0" style="width: 1044px; height: 738px; cursor: none;"></canvas></div>
+    </div>
+  
+</body></html>
