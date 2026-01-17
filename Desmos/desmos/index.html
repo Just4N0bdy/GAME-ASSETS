@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" style="margin:0;padding:0;overflow: hidden;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desmos</title>
+    <script src="api.js"></script>
+</head>
+<body style="margin:0;padding:0;">
+    <div id="calculator" style="width: 100vw; height: 100vh;position: absolute;"></div>
+    <script>
+      var elt = document.getElementById('calculator');
+      var calculator = Desmos.GraphingCalculator(elt);
+    </script>
+</body>
+</html>
