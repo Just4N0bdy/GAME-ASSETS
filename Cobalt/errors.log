@@ -1,0 +1,11 @@
+[2026-01-17T07:19:13.788Z] Error processing URL: https://selenite.cc/favicon.ico
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:162:44
+    at Array.map (<anonymous>)
+    at HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:102:38)
+
+[2026-01-17T07:19:13.791Z] Error processing URL: https://selenite.cc/resources/sppa/cobalt/index.html
+TypeError: Failed to fetch
+    at chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:122:48
+    at async Promise.all (index 1)
+    at async HTMLButtonElement.<anonymous> (chrome-extension://deifknnbjkpchacoigdmcleejjjcidao/panel.js:182:13)
